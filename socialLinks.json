@@ -2,7 +2,7 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "url": "https://github.com/AiYuxi2010"
 }, {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
@@ -17,15 +17,15 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "mailto:aiyuxi@aiyuxi.cn"
 }, {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+    "tip": "暂未开通~",
+    "url": "#"
 }, {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "tip": "暂未开通~",
+    "url": "#"
 }]
